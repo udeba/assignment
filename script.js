@@ -13,3 +13,4 @@ if (preditionofFather == mariosCompartmen) {
 } else {
   console.log(text3);
 }
+// and
