@@ -1,4 +1,4 @@
-const  = 4;
+const mariosCompartmen = 4;
 /*Mario's compartment does not change*/
 const preditionofFather = Number(prompt("Insert Predition"));
 /*father's prediction is changing.*/
